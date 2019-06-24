@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applicaster:JordanFamily:0.6.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/JordanFamily-0.6.6.aar/f3e0c067e0f2ab00d8a82ad132a5c138/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/JordanFamily-0.6.6.aar/f3e0c067e0f2ab00d8a82ad132a5c138/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applicaster/JordanFamily/0.6.6/f90fb8b8d30d1006daa0077cfd6dd374d3ce5eec/JordanFamily-0.6.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

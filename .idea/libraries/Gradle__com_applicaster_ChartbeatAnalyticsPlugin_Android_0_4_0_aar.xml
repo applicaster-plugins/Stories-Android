@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applicaster:ChartbeatAnalyticsPlugin-Android:0.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ChartbeatAnalyticsPlugin-Android-0.4.0.aar/125db8bccb4a62b797c1a97490dd8779/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ChartbeatAnalyticsPlugin-Android-0.4.0.aar/125db8bccb4a62b797c1a97490dd8779/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applicaster/ChartbeatAnalyticsPlugin-Android/0.4.0/aec81df7cdd20416ace094ec01795f829e5e3152/ChartbeatAnalyticsPlugin-Android-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

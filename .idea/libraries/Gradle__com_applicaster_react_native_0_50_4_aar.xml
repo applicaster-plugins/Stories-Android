@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applicaster:react-native:0.50.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.50.4.aar/b6120f438b9472d0ded4e677e5c521ff/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.50.4.aar/b6120f438b9472d0ded4e677e5c521ff/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.50.4.aar/b6120f438b9472d0ded4e677e5c521ff/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.50.4.aar/b6120f438b9472d0ded4e677e5c521ff/jars/libs/infer-annotations-4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applicaster/react-native/0.50.4/abad89e993147a0ba0c4c56eb2765886c795a569/react-native-0.50.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applicaster/react-native/0.50.4/6367b0eaf92366a9c8515090ebac9135a21e731a/react-native-0.50.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

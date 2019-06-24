@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applicaster:LermaFamily:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/LermaFamily-0.3.0.aar/36a92315eb60177ec5fe3de65d83930b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/LermaFamily-0.3.0.aar/36a92315eb60177ec5fe3de65d83930b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applicaster/LermaFamily/0.3.0/670ce5b5bb6f771423cf78d88070f4e9896d09f0/LermaFamily-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

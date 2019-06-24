@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../android_generic_app/android_generic_app.iml" filepath="$PROJECT_DIR$/../android_generic_app/android_generic_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../android_generic_app/applicaster-android-sdk/applicaster-android-sdk.iml" filepath="$PROJECT_DIR$/../android_generic_app/applicaster-android-sdk/applicaster-android-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@applicaster/feed-rn-utils/android/feedrnutils.iml" filepath="$PROJECT_DIR$/../node_modules/@applicaster/feed-rn-utils/android/feedrnutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../las-estrellas-13-0-0.iml" filepath="$PROJECT_DIR$/../las-estrellas-13-0-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stories-android.iml" filepath="$PROJECT_DIR$/stories-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../android_generic_app/ZappRoot-Android/zapp_root.iml" filepath="$PROJECT_DIR$/../android_generic_app/ZappRoot-Android/zapp_root.iml" />
+    </modules>
+  </component>
+</project>

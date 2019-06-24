@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applicaster:HondoFamily:0.2.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/HondoFamily-0.2.7.aar/0beb2b69d606c53c81b3d541d78fbda6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/HondoFamily-0.2.7.aar/0beb2b69d606c53c81b3d541d78fbda6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applicaster/HondoFamily/0.2.7/89ead85334505329bc6b184bd1920cb36ddb78a2/HondoFamily-0.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

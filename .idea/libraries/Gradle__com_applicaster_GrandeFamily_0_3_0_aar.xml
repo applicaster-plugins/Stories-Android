@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applicaster:GrandeFamily:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GrandeFamily-0.3.0.aar/b501e660df7d9aacadfac309cd0aeb12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GrandeFamily-0.3.0.aar/b501e660df7d9aacadfac309cd0aeb12/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applicaster/GrandeFamily/0.3.0/52d493cb6d1ac330608c34ee1c66a791a98c82ca/GrandeFamily-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

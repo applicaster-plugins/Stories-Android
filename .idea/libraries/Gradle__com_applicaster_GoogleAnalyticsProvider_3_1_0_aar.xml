@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applicaster:GoogleAnalyticsProvider:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GoogleAnalyticsProvider-3.1.0.aar/7bd492818b19f566013172002934795a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/GoogleAnalyticsProvider-3.1.0.aar/7bd492818b19f566013172002934795a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applicaster/GoogleAnalyticsProvider/3.1.0/423f5a570254dbc18c4e83ce12b3c2acd44999a8/GoogleAnalyticsProvider-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

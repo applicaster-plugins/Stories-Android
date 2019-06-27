@@ -27,5 +27,13 @@
   "react_native": false,
   "custom_configuration_fields": [
 
-  ]
+  ],
+  "data": {
+	  "fields": [
+		{
+		  "key": "source",
+		  "type": "text_input"
+		}
+	   ]
+  }
 }
